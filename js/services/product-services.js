@@ -1,5 +1,5 @@
 //  URL de tu API desplegada en Vercel
-const apiUrl = "https://fake-api-blush-tau.vercel.app/productos"; 
+const apiUrl = "https://fake-aqckwsom7-daniel-morenos-projects-771907c9.vercel.app/db.json"; 
 
 // Funciones de la página web
 
