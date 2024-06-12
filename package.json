@@ -1,12 +1,12 @@
 {
   "name": "alura_geek",
   "version": "1.0.0",
-  "description": "tienda de productos en linea, proyecto para abordar un challenge de Alura Latam",
+  "description": "Challenger Alura Geek",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jhoan Sebastian Urrea Sanchez",
+  "author": "Daniel Morfeno",
   "license": "ISC",
   "dependencies": {
     "json-server": "^1.0.0-beta.1"

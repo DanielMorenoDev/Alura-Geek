@@ -14,7 +14,7 @@ function createcard(nombre, precio, imagen, id) {
     <div class="product_info">
         <div class="description">
             <h3>${nombre}</h3>
-            <h4>$ ${precio} COP</h4>
+            <h4>$ ${precio}</h4>
         </div>
         <img class="delete_button" src="assets/icon/delete_icon.svg" alt="">
     </div>

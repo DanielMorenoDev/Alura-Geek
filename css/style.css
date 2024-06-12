@@ -4,10 +4,10 @@
     --h3_size : 16px;
     --h4_size : 14px;
     --body-color: #ECF0F1;
-    --bg-header-footer-color: #00051d;
-    --header-title-color1:rgba(11,9,121,1);
-    --header-title-color2:rgba(0,212,255,1);
-    --decoration_color: rgba(11,9,121,1);
+    --bg-header-footer-color: #1B4F72;
+    --header-title-color1:rgb(255, 255, 255);
+    --header-title-color2:#ECF0F1;
+    --decoration_color: #1B4F72;
 }
 *{
     box-sizing: border-box;
@@ -19,7 +19,7 @@
 html {
     /*Me permite deslizar cuando hago clic en loslink del menu*/
     scroll-behavior: smooth;
-    font-family: "Oswald", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-weight: 500;
     font-style: normal;
